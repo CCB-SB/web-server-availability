@@ -1,0 +1,45 @@
+44 elements included exclusively in "List 1":
+Not Found
+Server unavailable
+Maintainance in progress
+Out server is down temporarily
+Out server is down
+503 Service Unavailable
+Service Unavailable
+No server is available to handle this request
+has been discontinued
+502 Bad Gateway
+The resource could not be found
+404 Not Found
+decimalLongitude
+This is the default web page for this server
+The web server software is running but no content has been added, yet
+The requested URL was not found on this server
+The AlloPred web server is currently encountering some technical difficulties
+Sorry, Page Not Found
+403 Forbidden
+Error 406 - Not Acceptable
+<Error><Code>NoSuchBucket</Code>
+Server under maintenance
+503 Service Temporarily Unavailable
+Temporarily Unavailable
+502 Proxy Error
+Proxy Erro
+currently unavailable
+invalid request
+Service unavailable
+The service is down due to technical issues
+Site Maintenance
+Service temporarily unavailable
+Object not found!
+404 Page Not Found
+The page you requested was not found
+Error 404
+ERROR 404: Seite nicht gefunden
+Errore 404
+ERROR 404
+No longer supported webserver
+This transfer is blocked
+The transfer has triggered a Web Application Firewall
+The resource cannot be found
+403 - Forbidden: Access is denied
